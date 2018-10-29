@@ -22,10 +22,10 @@
 
 * 安装以下依赖库
 
-		requests
-	​	pandas 
-	​	openpyxl
-	​	xlrd
+		   requests
+		​	pandas 
+		​	openpyxl
+		​	xlrd
 
 * 打开`run.py`,填写你需要批量获取的企业信息的excel文件路径，并指定excel文件中：企业名和纳税人识别号的列名：
 
